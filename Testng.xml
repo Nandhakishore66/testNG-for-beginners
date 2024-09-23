@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Suite">
+<test name="Test Case">
+<parameter name="Name" value="Duck"></parameter>
+<classes>
+<class name="testNGPractice.ParameterizationExample"></class>
+</classes>
+</test>
+</suite>
+
+<!-- <class name="testNGPractice.DependiciesManagement"></class>
+<class name="testNGPractice.driveACar"></class>
+<class name="testNGPractice.sampleTestCase"></class>
+<class name="testNGPractice.skipATestCase"></class>-->
+
+<!-- <groups>
+<run>
+  <include name="Moto"></include>
+  <include name="Vivo"></include>
+</run>
+</groups> -->
